@@ -10,6 +10,6 @@ public class Main {
         int minus = number1 - number2;
         int multiply = number1 * number2;
         int divide = number1 / number2;
-        System.out.printf("Sum = %d\nMinus = %d\nMultiply  = %d\nDivide = %d\n ", sum, minus, multiply, divide);
+        System.out.println("Sum = %d\nMinus = %d\nMultiply  = %d\nDivide = %d\n ", sum, minus, multiply, divide);
     }
 }
